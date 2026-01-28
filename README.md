@@ -15,6 +15,6 @@ As well as to compute harmonic motions of protein-nucleic complexes, employing t
 
 ![Protein_NA](Images/Prot_NA_NMs.png)
 
-Here you can also find the eBDIMS2 code () with the extension for nucleic acids and protein-nucleic acid complexes, in order to obtain transition pathways for conformational changes in large complexes, e.g.:
+Here you can also find the eBDIMS2 code (https://doi.org/10.21203/rs.3.rs-6504036/v1, https://github.com/domenicoscaramozzino/eBDIMS2) with the extension for nucleic acids and protein-nucleic acid complexes, in order to obtain transition pathways for conformational changes in large complexes, e.g.:
 
 ![transition](Images/transition.png)
