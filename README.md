@@ -13,7 +13,7 @@ You can use it to compute NMs of DNA and RNA molecules and compare it with PC ve
 
 As well as to compute harmonic motions of protein-nucleic complexes, employing the edENM parametrization for both the protein and nucleic acid components, e.g.:
 
-![Protein_NA](Images/Protein_NA_NMs.png)
+![Protein_NA](Images/Prot_NA_NMs.png)
 
 Here you can also find the eBDIMS2 code () with the extension for nucleic acids and protein-nucleic acid complexes, in order to obtain transition pathways for conformational changes in large complexes, e.g.:
 
