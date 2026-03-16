@@ -5,7 +5,7 @@ The edENM is developed defining spring constants based on apparent force constan
 
 ![flowchart](Images/flowchart.png)
 
-The code allows to reproduce the results shown in [INSERT PREPRINT LINK].
+The code allows to reproduce the results shown in (https://www.biorxiv.org/content/10.64898/2026.03.11.710985v1).
 
 You can use it to compute NMs of DNA and RNA molecules and compare it with PC vectors from experimental data, e.g. NMR models:
 
